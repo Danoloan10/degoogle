@@ -1,0 +1,36 @@
+Buscador
+
+- DuckDuckGo: https://duckduckgo.com/«búsqueda»
+- Startpage:  https://startpage.com
+- YaCy:       https://www.yacy.net/es/
+
+Correo
+
+- MailFence:  https://mailfence.com
+- TutaNota:   https://tutanota.com
+- ProtonMail: https://protonmail.com
+
+Nube
+
+- Mega:       https://mega.nz
+- Sync:       https://www.sync.com
+- Syncthing:  https://syncthing.net
+
+Agenda
+
+- (nube)
+- (correo)
+- EteSync:    https://www.etesync.com
+
+Mapas
+
+- OSM:        https://www.openstreetmap.com
+
+Navegador
+
+- Firefox:    https://mozilla.org/es-ES/firefox
+- Bromite:    https://www.bromite.org
+
+YouTube
+
+ :(

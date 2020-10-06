@@ -1,0 +1,54 @@
+
+Datos que google tiene de ti:
+
+Descargables
+
+        + Lista de móviles:
+                > IMEI
+                > Marca y modelo
+                > Huso horario
+
+        + Marcadores de Chrome
+        + Contactos
+        + (Google Pay) Todas las transacciones + GPS
+        + (Google Keep) Todas las notas (y borradas)
+
+        + Historial de localizaciones (seguimiento pausado):
+                > Localización exacta
+                > Medio de transporte
+
+        + TODAS las búsquedas en Google
+                > junto a la fecha y la hora
+
+        + Lista de todas las compras de Amazon
+                > junto con el estado
+                        (enviado, recibido, en camino...)
+
+Subvertivas
+
+        + Registros de IP - página web
+
+        + Android se conecta a Google cada vez que se conecta a una WiFi
+
+        + Trackers en aplicaciones (reCAPTCHA, Firebase, Analytics)
+
++ RESUMEN:
+  - Google sabe qué teléfono usas
+  - Google sabe qué páginas web visitas
+  - Google sabe qué aplicaciones utilizas
+  - Google sabe a quién conoces
+  - Google sabe qué compras
+  - Google sabe dónde estás
+  - Google sabe qué buscas
+  - Google sabe qué haces
+  -----------------------------------------
+  - Google sabe qué piensas
+
+Esto se puede comprobar en https://support.google.com/accounts/answer/3024190?hl=es
+
+Google no es software libre, así que aunque ajustes ciertas opciones, nunca sabrás si realmente
+esos ajustes están siendo aplicados.
+
+https://old.reddit.com/r/privacy/comments/a84663/googles_tracking_is_worse_than_i_could_have_ever/
+
+Alternativas
